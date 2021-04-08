@@ -7,7 +7,7 @@
 :man_technologist:	Analista de desenvolvimento back-end na <b>Sambatech</b>
 
 
-<b> :scroll: Tecnologia que já trabalhei</b>:<br>
+<b> :scroll: Tecnologia que já trabalhei</b>:<br><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
