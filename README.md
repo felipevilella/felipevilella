@@ -2,9 +2,9 @@
 
 ### Olá Sou Felipe Vilella 👋
 
-:computer: Desenvolvedor Back -end<br>
+:computer: Desenvolvedor Back End<br>
 :man_student: Graduado em sistemas de informação <br>
-:man_technologist:	Analista de desenvolvimento back-end na <b>Sambatech</b>
+:man_technologist:	Desenvolvedor Back End Pleno <b>Sambatech</b>
 
 
 <b> :scroll: Tecnologia que já trabalhei</b>:<br><br>
