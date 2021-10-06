@@ -2,7 +2,7 @@
 
 ### Olá Sou Felipe Vilella 👋
 
-:computer: Desenvolvedor Full stack <br>
+:computer: Desenvolvedor Back -end<br>
 :man_student: Graduado em sistemas de informação <br>
 :man_technologist:	Analista de desenvolvimento back-end na <b>Sambatech</b>
 
@@ -19,3 +19,6 @@
 <b> :tickets: Redes sociais que possa me encontrar:</b> <br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipevilella/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/felipe.vilella/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevilella)](https://github.com/felipevilella/github-readme-stats)
+/
