@@ -4,6 +4,7 @@
 
 :computer: Desenvolvedor Back End<br>
 :man_student: Graduado em sistemas de informação <br>
+:man_student: Realizado Pós em Cibersegurança e governança de dados <br>
 :man_technologist:	Desenvolvedor Back End Pleno <b>Cubos Tecnologia</b>
 
 
