@@ -1,4 +1,5 @@
 Olá, sou Felipe Vilella 👋
+
 :computer: Desenvolvedor Back-End com mais de 6 anos de experiência, especializado em Node.js, TypeScript, e arquiteturas Serverless. Tenho uma sólida formação acadêmica com graduação em Sistemas de Informação e pós-graduação em Cibersegurança e Governança de Dados.
 
 :man_student: Graduação em Sistemas de Informação<br>
